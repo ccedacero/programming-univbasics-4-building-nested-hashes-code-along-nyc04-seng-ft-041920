@@ -18,9 +18,4 @@ end
 
 
 
-#     :patriarch => {},
-#     :matriarch => {},
-#     :hero => {},
-#     :hero_friends => [{},{}]
-#     },
-#     
+#   
